@@ -16,7 +16,7 @@
             "outputPath": "dist/gym",
             "index": "src/index.html",
             "browser": "src/main.ts",    
-      "baseHref": "https://natsui122.github.io/Gym/",
+      "baseHref": "https://natsui122.github.io/Gym-Angular/",
             "polyfills": [
               "zone.js"
             ],
